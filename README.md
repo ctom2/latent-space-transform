@@ -2,4 +2,4 @@
 
 This is the official repository of the latent space transform algorithm
 
-`python3 LST_run.py`
+Execute the model by running `python3 LST_run.py`
