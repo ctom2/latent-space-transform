@@ -9,6 +9,8 @@ This is the official repository for the Transfer learning based few-shot classif
 
 https://arxiv.org/abs/2102.05176
 
+![Model overview](https://raw.githubusercontent.com/ctom2/latent-space-transform/main/model_overview.png)
+
 ## Training
 
 We use the same backbone network and training strategies as 'S2M2_R'. For more information about the backbone training, please refer to https://github.com/nupurkmr9/S2M2_fewshot.
