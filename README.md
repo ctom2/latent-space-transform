@@ -1,3 +1,11 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-based-few-shot/few-shot-image-classification-on-cifar-fs-5)](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5?p=transfer-learning-based-few-shot)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-based-few-shot/few-shot-image-classification-on-cifar-fs-5-1)](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5-1?p=transfer-learning-based-few-shot)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-based-few-shot/few-shot-image-classification-on-cub-200-5-1)](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5-1?p=transfer-learning-based-few-shot)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-based-few-shot/few-shot-image-classification-on-cub-200-5)](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5?p=transfer-learning-based-few-shot)
+
 # Latent Space Transform
 
 This is the official repository for the Transfer learning based few-shot classification using optimal transport mapping from preprocessed latent space of backbone neural network papers introducting the Latent Space Transform algorithm for preproccesing backbone-extracted feature vectors to resemble Gaussian-like distributions. 
