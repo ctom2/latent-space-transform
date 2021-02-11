@@ -1,6 +1,8 @@
 # Latent Space Transform
 
-This is the official repository of the latent space transform algorithm
+This is the official repository for the Transfer learning based few-shot classification using optimal transport mapping from preprocessed latent space of backbone neural network papers introducting the Latent Space Transform algorithm for preproccesing backbone-extracted feature vectors to resemble Gaussian-like distributions. 
+
+https://arxiv.org/abs/2102.05176
 
 ## Training
 
